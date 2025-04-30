@@ -1,0 +1,379 @@
+head,type,tail
+Draco Malfoy,spouse,Astoria Greengrass
+Astoria Greengrass,spouse,Draco Malfoy
+Wizengamot,chairperson,Arthur
+Lucius Malfoy,student,Arthur Weasley
+Arthur Weasley,student of,Lucius Malfoy
+Hogwarts Library,has part,Chamber of Secrets
+Chamber of Secrets,part of,Hogwarts Library
+Viktor Krum,participant in,Yule Ball
+Yule Ball,participant,Viktor Krum
+Cormac McLaggen,member of,Slug Club
+Slug Club,has part,Cormac McLaggen
+Minister for Magic,officeholder,Hermione Jean Granger
+Hermione Jean Granger,position held,Minister for Magic
+Sirius Black,educated at,Hogwarts
+Remus Lupin,educated at,Hogwarts
+Peter Pettigrew,educated at,Hogwarts
+Lucius Malfoy,child,Draco
+Draco,father,Lucius Malfoy
+Tom Riddle,educated at,Hogwarts
+Luna Lovegood,present in work,Hogwarts Express
+Draco,spouse,Astoria Greengrass
+I must not tell lies,instance of,Black Quill
+Draco Malfoy,spouse,Astoria Greengrass
+Hermione,spouse,Ron
+Ron,spouse,Hermione
+Ron Weasley,spouse,Hermione Granger
+Hermione Granger,spouse,Ron Weasley
+James,sibling,Lily Potter
+Lily Potter,sibling,James
+Harry,spouse,Hermione
+Hermione,spouse,Harry
+Peter Pettigrew,member of,Potters
+Potters,has part,Peter Pettigrew
+Draco,spouse,Hermione
+Hermione,spouse,Draco
+Lucius Malfoy,spouse,Narcissa Malfoy
+Narcissa Malfoy,spouse,Lucius Malfoy
+Norbert,owned by,Hagrid
+Hagrid,owner of,Norbert
+Draco Malfoy,spouse,Astoria Greengrass
+I must not tell lies,instance of,Black Quill
+Draco Malfoy,educated at,Hogwarts
+Hermione Granger,educated at,Hogwarts
+Lucius,spouse,Narcissa
+Lucius,child,Draco
+Narcissa,spouse,Lucius
+Narcissa,child,Draco
+Draco,date of birth,5 June 1980
+Draco,father,Lucius
+Draco,mother,Narcissa
+Cho Chang,spouse,Cedric Diggory
+Cedric Diggory,spouse,Cho Chang
+Minister for Magic,officeholder,Hermione Granger
+Hermione Granger,position held,Minister for Magic
+Draco,spouse,Astoria Greengrass
+Astoria Greengrass,spouse,Draco
+Slug Club,founded by,Horace Slughorn
+Chamber of Secrets,instance of,legend
+Luna Lovegood,spouse,Ginny Weasley
+Ginny Weasley,spouse,Luna Lovegood
+Draco,spouse,Hermione
+Hermione,spouse,Draco
+Ron Weasley,spouse,Hermione
+Hermione,spouse,Ron Weasley
+Luna Lovegood,spouse,Ginny Weasley
+Ginny Weasley,spouse,Luna Lovegood
+Luna Lovegood,spouse,Ginny Weasley
+Ginny Weasley,spouse,Luna Lovegood
+Draco,member of sports team,Gryffindor Quidditch team
+Norberta,said to be the same as,Norbert
+Norbert,said to be the same as,Norberta
+Draco Malfoy,spouse,Astoria Greengrass
+Draco Malfoy,spouse,Astoria Greengrass
+Astoria Greengrass,spouse,Draco Malfoy
+Ministry of Magic,office held by head of the organization,Minister for Magic
+Draco,educated at,Durmstrang Institute
+Lucius Malfoy,participant in,killing Harry
+killing Harry,participant,Lucius Malfoy
+Hermione,spouse,Ron
+Ron,spouse,Hermione
+Arthur Weasley,educated at,Hogwarts
+I must not tell lies,published in,Black Quill
+Secret Keeper,creator,Sirius
+Bellatrix Lestrange,conflict,Battle of Hogwarts
+Nymphadora Tonks,conflict,Battle of Hogwarts
+Sirius Black,family,Potter family
+phoenix feather,parent taxon,holly
+Lucius Malfoy,member of,Hogwarts Board of Governors
+Draco Malfoy,date of birth,5 June 1980
+Sybill Trelawney,educated at,Hogwarts
+Draco,spouse,Astoria
+Astoria,spouse,Draco
+Arthur Weasley,height,"5'11"""
+Draco Malfoy,date of birth,5 June 1980
+Fidelius Charm,instance of,protective charm
+Draco Malfoy,date of birth,5 June 1980
+Ron Weasley,height,"5'9"""
+Horace Slughorn,educated at,Hogwarts
+Lucius Malfoy,educated at,Hogwarts
+Muggle Protection Act,publication date,1992
+Lucius and Narcissa Malfoy,child,Draco Malfoy
+Draco Malfoy,family,Lucius and Narcissa Malfoy
+Draco Malfoy,member of sports team,Slytherin Quidditch team
+her funeral,participant,Ariana's
+Draco Malfoy,date of birth,June 1980
+Hermione,child,Harry
+Harry,mother,Hermione
+Slytherin,instance of,sorted
+Lucius Malfoy,residence,Borgin and Burkes
+Cormac McLaggen,spouse,Hermione
+Hermione,spouse,Cormac McLaggen
+Lord Voldemort,member of,Death Eater
+Lily's,uses,wand
+wand,used by,Lily's
+Ron Weasley,sibling,Hermione
+Ron Weasley,sibling,Harry
+Hermione,sibling,Ron Weasley
+Hermione,spouse,Harry
+Harry,sibling,Ron Weasley
+Harry,spouse,Hermione
+Densaugeo,language of work or name,Latin
+Ariana Dumbledore,sibling,Dumbledore
+Dumbledore,sibling,Ariana Dumbledore
+Minerva McGonagall,position held,head of house
+Minerva McGonagall,field of work,Transfiguration
+Bill Weasley,position held,head of house
+Draco Malfoy,spouse,Hermione
+Hermione,spouse,Draco Malfoy
+Newt Scamander,present in work,Credence
+Credence,characters,Newt Scamander
+Percival Dumbledore,spouse,Kendra Dumbledore
+Kendra Dumbledore,spouse,Percival Dumbledore
+Bill Weasley,educated at,Hogwarts
+Draco Malfoy,student,Hermione
+Hermione,student of,Draco Malfoy
+Vernon Dursley,spouse,Petunia Dursley
+Petunia Dursley,spouse,Vernon Dursley
+Professor Snape,member of,Gryffindor
+Professor Snape,student,third year
+third year,student of,Professor Snape
+Chester Davies,sibling,Roger Davies
+Roger Davies,sibling,Chester Davies
+Fidelius Charm,language of work or name,Latin
+Slytherin,part of,Hogwarts
+Hogwarts,has part,Slytherin
+Narcissa Black,member of,Slytherin
+Lily Potter,sibling,Petunia Dursley
+Petunia Dursley,sibling,Lily Potter
+Draco Malfoy,child,Harry
+Harry,father,Draco Malfoy
+Draco Malfoy,father,Abraxas Malfoy
+Astoria Malfoy,spouse,Draco Malfoy
+Draco Malfoy,spouse,Astoria Malfoy
+Vernon Dursley,spouse,Petunia Dursley
+Petunia Dursley,spouse,Vernon Dursley
+Harry,sibling,Ron
+Harry,sibling,Hermione
+Ron,sibling,Harry
+Ron,sibling,Hermione
+Hermione,sibling,Harry
+Hermione,sibling,Ron
+Draco Malfoy,spouse,Hermione
+Hermione,spouse,Draco Malfoy
+Cormac McLaggen,member of,Slug Club
+Tom Riddle's Diary,characters,Lucius Malfoy
+Lucius Malfoy,present in work,Tom Riddle's Diary
+Albus Dumbledore,educated at,Hogwarts
+Lucius Malfoy,educated at,Hogwarts
+Lily Luna Potter,named after,Lily Potter
+Hermione,spouse,Harry
+Hermione,spouse,Ron
+Harry,spouse,Hermione
+Harry,sibling,Ron
+Ron,spouse,Hermione
+Ron,sibling,Harry
+Scorpius Hyperion Malfoy,said to be the same as,the Unanxious
+the Unanxious,said to be the same as,Scorpius Hyperion Malfoy
+Scorpius Malfoy,said to be the same as,Malfoy the Unanxious
+Harry,residence,Shell Cottage
+James,educated at,Hogwarts
+Lucius Malfoy,educated at,Hogwarts
+Care of Magical Creatures,subclass of,Muggle Studies
+Albus Dumbledore,instance of,boggart
+Hermione,member of,Statute of Secrecy Task Force
+Professor McGonagall,student,Harry
+Harry,student of,Professor McGonagall
+1993 year,point in time,1993
+Wormy,characters,Peter Pettigrew
+Peter Pettigrew,present in work,Wormy
+Golden Snitch,sport,Quidditch
+Transfiguration class,named after,Professor McGonagall
+Madam Pomfrey,spouse,Harry
+Harry,spouse,Madam Pomfrey
+Fenrir Greyback,instance of,werewolf
+Care of Magical Creatures,part of,Hogwarts
+Harry,sibling,Hagrid
+Harry,sibling,Madame Maxime
+Hagrid,sibling,Harry
+Hagrid,sibling,Madame Maxime
+Madame Maxime,sibling,Harry
+Madame Maxime,sibling,Hagrid
+Won-Won,performer,Lavender
+Weatherby,said to be the same as,Percy
+Percy,said to be the same as,Weatherby
+Professor McGonagall,member of,Gryffindors
+Hagrid,spouse,Hermione
+Hermione,spouse,Hagrid
+Professor Lupin,field of work,Defence Against the Dark Arts
+The Quibbler,instance of,magazine
+Frank Bryce,participant in,the murders
+the murders,participant,Frank Bryce
+Norbert,child,Hagrid
+Hagrid,father,Norbert
+Cedric,student,Harry
+Harry,student of,Cedric
+Lucius Malfoy,employer,Ministry
+Rita Skeeter,instance of,Animagus
+Hagrid,notable work,Care of Magical Creatures
+Care of Magical Creatures,author,Hagrid
+Hagrid,sibling,half-brother
+half-brother,sibling,Hagrid
+Cornelius Fudge,position held,Minister of Magic
+Hermione,member of,Order of the Phoenix
+Dobby,present in work,Harry Potter
+Harry,student,Hagrid
+Hagrid,student of,Harry
+Professor Grubbly-Plank,notable work,Care of Magical Creatures
+Care of Magical Creatures,author,Professor Grubbly-Plank
+I must not tell lies,author,Umbridge
+team spirit,said to be the same as,unity
+unity,said to be the same as,team spirit
+Gryffindor,characters,Euan Abercrombie
+Sorting Hat,characters,Euan Abercrombie
+Euan Abercrombie,present in work,Gryffindor
+Euan Abercrombie,present in work,Sorting Hat
+Care of Magical Creatures,author,Professor Grubbly-Plank
+Professor Grubbly-Plank,notable work,Care of Magical Creatures
+Untransfigure,subclass of,Transfiguration
+Harry,characters,Cedric Diggory
+Cedric Diggory,present in work,Harry
+Hermione,spouse,Krum
+Krum,spouse,Hermione
+odorless,subclass of,colorless
+Pigwidgeon,said to be the same as,Ron's tiny gray owl
+Ron's tiny gray owl,said to be the same as,Pigwidgeon
+Harry,educated at,Hogwarts
+Aunt Petunia,child,Dudley
+Dudley,mother,Aunt Petunia
+Hermione,present in work,first pod open
+first pod open,characters,Hermione
+Defensive Magical Theory,author,Wilbert Slinkhard
+Dumbledore,instance of,bewitched
+People who have seen death,author,Hagrid
+Witch Weekly,main subject,recipes
+Defensive Magical Theory,author,Wilbert Slinkhard
+Defensive Magical Theory,author,Wilbert Slinkhard
+Hermione,spouse,Felix Felicis
+Felix Felicis,spouse,Hermione
+Cedric Diggory,sibling,Cho Chang
+Cho Chang,sibling,Cedric Diggory
+Dumbledore,student,Hagrid
+Hagrid,student of,Dumbledore
+Harry,sport,Quidditch
+Cho Chang,spouse,Cedric Diggory
+Cedric Diggory,spouse,Cho Chang
+Phoenix,has part,Harry
+Harry,member of,Phoenix
+Harry,sibling,Cedric
+Cedric,sibling,Harry
+Dumbledore,participant in,Leaving Feast
+Leaving Feast,participant,Dumbledore
+Hermione,spouse,Ron
+Ron,spouse,Hermione
+Draco Malfoy,creator,Moody
+Hermione,participant in,first years
+first years,participant,Hermione
+Ludo Bagman,member of sports team,England
+Ludo,creator,Mr. Weasley
+Golden Snitch,owned by,James
+James,owner of,Golden Snitch
+Felix Felicis,spouse,Hermione
+Umbridge,residence,Grimmauld Place
+Professor Grubbly-Plank,student,Hagrid
+Hagrid,student of,Professor Grubbly-Plank
+Floo powder,owned by,Harry
+Unicorn blood,subclass of,blood
+Bubble-gum pink,instance of,hair color
+violet,instance of,hair color
+Harry Potter,participant in,second task
+second task,participant,Harry Potter
+Worple,sibling,Sanguini
+Sanguini,sibling,Worple
+Harry,present in work,Five Knuts
+Professor Trelawney,educated at,Hogwarts
+Cho,member of political party,DA
+Professor McGonagall,spouse,Dumbledore
+Dumbledore,spouse,Professor McGonagall
+Snape,present in work,Defence Against the Dark Arts
+Defence Against the Dark Arts,characters,Snape
+Snape,educated at,Hogwarts
+Five Galleons many Galleons,performer,Ludo Bagman
+Advanced Potion-Making,owned by,Harry
+Harry,owner of,Advanced Potion-Making
+Dolores Umbridge,field of work,Defence Against the Dark Arts
+Single-malt whiskey,subclass of,whiskey
+trapdoor,owned by,Hermione
+Hermione,owner of,trapdoor
+Hagrid,instance of,Crup
+Harry,sibling,Ron
+Harry,sibling,Hermione
+Harry,sibling,Neville
+Ron,sibling,Harry
+Ron,sibling,Hermione
+Ron,sibling,Neville
+Hermione,sibling,Harry
+Hermione,sibling,Ron
+Hermione,sibling,Neville
+Neville,sibling,Harry
+Neville,sibling,Ron
+Neville,sibling,Hermione
+Slughorn,field of work,Potions
+Dobby,relative,Harry
+Harry,relative,Dobby
+Harry,relative,Slughorn
+Slughorn,relative,Harry
+Hagrid,student,Karkus
+Karkus,student of,Hagrid
+Arms,part of,chair
+chair,has part,Arms
+Ron,spouse,Hermione
+Hermione,spouse,Ron
+"""DISTURBED AND DANGEROUS"" headline",published in,Daily Prophet
+Draco Malfoy,employer,Daily Prophet
+Trelawney,position held,Professor
+garden gnome,subclass of,angel
+Hermione,uses,telescope object
+Hagrid,present in work,Hagrid
+Hermione,spouse,Hagrid
+Harry,spouse,Hermione
+Hermione,spouse,Harry
+Professor Trelawney,position held,Professor
+Mrs. Weasley,spouse,Mr. Weasley
+Mr. Weasley,spouse,Mrs. Weasley
+Trelawney,position held,Professor
+Trelawney,position held,Professor
+Professor Trelawney,position held,Professor
+Snape,student,Harry
+Harry,student of,Snape
+You die did Ron say happens if you break an Unbreakable Vow,part of,Unbreakable Vow
+Unbreakable Vow,has part,You die did Ron say happens if you break an Unbreakable Vow
+To slay a unicorn,author,Firenze
+Ron,spouse,Hermione
+Hermione,spouse,Ron
+Myrtle,child,Harry
+Harry,mother,Myrtle
+Harry,member of sports team,Gryffindor
+Hermione,member of sports team,Gryffindor
+Neville,member of sports team,Gryffindor
+Hagrid,sibling,Grawp
+Harry,owner of,wand
+wand,owned by,Harry
+Harry,student of,Dumbledore
+Harry,student of,Dumbledore
+Dumbledore,student,Harry
+Dumbledore,student,Harry
+Fred,sibling,George
+Fred,spouse,Hermione
+George,sibling,Fred
+George,spouse,Hermione
+Hermione,spouse,Fred
+Hermione,spouse,George
+Professor Snape,residence,Hogsmeade
+A small church,part of,graveyard
+graveyard,has part,A small church
+trick step,part of,staircase
+staircase,has part,trick step
+Tonks,sibling,Harry
+Harry,sibling,Tonks
